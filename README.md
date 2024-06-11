@@ -1,2 +1,2 @@
 # Portfolio
-[Data Cleaning](notebooks/global_retailer.ipynb)
+[Data Cleaning](notebook/global_retailer.ipynb)
