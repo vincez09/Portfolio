@@ -12,4 +12,4 @@ The analysis focused on several key questions:
 8. Which age group buys the most? 
 
 **Visualizations were created using Matplotlib** to provide clear insights into the data. Finally, I prepared dataframes for import into Tableau to create a Global Retail Sales Dashboard, which can be viewed here [Global Retailer Sales Dashboard](https://public.tableau.com/app/profile/steven.vincent.zabala/viz/Global_retailer_dashboard/DashboardFinal)
-![Global_sales_dashboard](https://github.com/vincez09/Portfolio/blob/main/Global_retailer_data_analysis/Global_sales_dashboard.PNG)
+![Global_sales_dashboard](https://github.com/vincez09/Portfolio/blob/main/Global_retailer_data_analysis/sales_dashboard.PNG)
