@@ -4,6 +4,8 @@ This repository holds all of my personal projects that I've done.
 1. [Global Retailer Data Analysis](/Global_retailer_data_analysis)
 - In this project i perform sales and customer data analysis on global retailer dataset that I've downloaded on Maven Analytics.
 
+2. [Video_games_data_analysis](/Video_games_data_analysis)
+
 2. [Public Tableau Visualizations](https://public.tableau.com/app/profile/steven.vincent.zabala/vizzes)
 
 ## Background
