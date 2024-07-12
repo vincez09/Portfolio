@@ -1,4 +1,4 @@
-## Global Retailer Data Analysis Project
+## Coffee Shop Data Analysis Project
 In this data analysis project, I utilized PostgreSQL to analyze a coffee shop transaction dataset. The dataset was downloaded on Kaggle. The analysis focused on key questions such as regarding sales and analyzing performance of different stores in different locations. See the SQL queries here [coffee_shop_data_analysis](./coffee_data_queries.sql)
 
 The analysis focused on several key questions:  
