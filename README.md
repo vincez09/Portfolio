@@ -2,11 +2,15 @@
 
 This repository holds all of my personal projects that I've done.
 1. [Global Retailer Data Analysis](/Global_retailer_data_analysis)
-- In this project i perform sales and customer data analysis on global retailer dataset that I've downloaded on Maven Analytics.
+- Check out my analysis of global retail sales and customer behavior, revealing key trends and insights. This project showcases my skills in using SQLite3 and Python for creating data visualizations.
 
 2. [Video_games_data_analysis](/Video_games_data_analysis)
+- A data analysis project into video game sales data, where I used Python to clean, manipulate, and visualize data, discovering trends and patterns in the video games industry.
 
-2. [Public Tableau Visualizations](https://public.tableau.com/app/profile/steven.vincent.zabala/vizzes)
+3. [coffee_shop_data_analysis](/coffee_shop_data_analysis)
+- Using PostgreSQL, i performed data analysis to extract insights about sales and performance of various coffee shops across different locations.
+
+4. [Public Tableau Visualizations](https://public.tableau.com/app/profile/steven.vincent.zabala/vizzes)
 
 ## Background
 Hello! 
