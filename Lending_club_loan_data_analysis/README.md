@@ -9,3 +9,5 @@ The analysis focused on several key questions:
 6. What insights can we gather from the relationship between interest rates and loan grades?
 7. What are the primary purposes for which loans are issued?
 8. How do average interest rates correlate with loan amounts?
+
+(https://github.com/vincez09/Portfolio/blob/main/Lending_club_loan_data_analysis/images/loans_dashboard.PNG)
