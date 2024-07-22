@@ -10,7 +10,9 @@ This repository holds all of my personal projects that I've done.
 3. [coffee_shop_data_analysis](/coffee_shop_data_analysis)
 - Using PostgreSQL, i performed data analysis to extract insights about sales and performance of various coffee shops across different locations.
 
-4. [Public Tableau Visualizations](https://public.tableau.com/app/profile/steven.vincent.zabala/vizzes)
+4. [Lending_club_loan_data_analysis](/Lending_club_loan_data_analysis)
+- Create a database using PostgreSQL, cleaned data, manipulate in order to be ready for analysis. Visualize data to understand loan performance, manage risk, and optimize interest rates.
+5. [Public Tableau Visualizations](https://public.tableau.com/app/profile/steven.vincent.zabala/vizzes)
 
 ## Background
 Hello! 
