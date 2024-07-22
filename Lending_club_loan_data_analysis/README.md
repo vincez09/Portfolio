@@ -10,4 +10,6 @@ The analysis focused on several key questions:
 7. What are the primary purposes for which loans are issued?
 8. How do average interest rates correlate with loan amounts?
 
-(https://github.com/vincez09/Portfolio/blob/main/Lending_club_loan_data_analysis/images/loans_dashboard.PNG)
+![Loans_dashboard](https://github.com/vincez09/Portfolio/blob/main/Lending_club_loan_data_analysis/images/loans_dashboard.PNG)
+[Global Retailer Sales Dashboard](https://public.tableau.com/app/profile/steven.vincent.zabala/viz/Global_retailer_dashboard/DashboardFinal)
+![Global_sales_dashboard](https://github.com/vincez09/Portfolio/blob/main/Global_retailer_data_analysis/sales_dashboard.PNG)
