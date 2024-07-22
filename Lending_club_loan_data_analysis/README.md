@@ -1,3 +1,4 @@
+## Lending Club Loan Data Analysis Project
 In this data analysis project, I utilized PostgreSQL to do data cleaning, data manipulation, and data normalization. The purpose of this project loan data analysis was to deepen my understanding on loans data and visualization techniques, and to showcase my ability to derive meaningful insights. The insights generated from this project are valuable for providing actionable data for stakeholders. The dataset is accepted loans data from Lending Club Loan that I downloaded from kaggle. See the sql queries here: [Loans Queries](./sql_queries/loans_query.sql)
 
 The analysis focused on several key questions:
